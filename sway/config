@@ -24,7 +24,7 @@ set $menu dmenu_run | wmenu | xargs swaymsg exec --
 ### Output configuration
 #
 # Default wallpaper (more resolutions are available in /usr/share/backgrounds/sway/)
-output * bg /home/violeta/ibm.jpg fill
+output * bg /home/violeta/Pictures/ibm.jpg fill
 #
 # Example configuration:
 #
